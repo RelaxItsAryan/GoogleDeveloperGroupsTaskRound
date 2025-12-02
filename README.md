@@ -79,11 +79,6 @@ Netlify or Vercel - Backend: Render, Vercel, or Railway
 
 ## Running the Project Locally
 
-### Backend
-
-cd backend npm install node server.js
-
-Backend will run on: http://localhost:5000
 
 ### Frontend
 
