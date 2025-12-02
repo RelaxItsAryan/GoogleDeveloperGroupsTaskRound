@@ -1,0 +1,112 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Arjun Sharma",
+      "role": "Lead",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face",
+      "skills": ["React", "Node.js", "Cloud"],
+      "location": "Bhopal",
+      "bio": "Passionate about building scalable web applications and mentoring fellow developers. Leading the GDGC chapter at VIT Bhopal."
+    },
+    {
+      "id": 2,
+      "name": "Priya Patel",
+      "role": "Tech Lead",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300&h=300&fit=crop&crop=face",
+      "skills": ["Python", "Machine Learning", "TensorFlow"],
+      "location": "Bhopal",
+      "bio": "AI/ML enthusiast with a focus on deep learning. Love conducting workshops on machine learning fundamentals."
+    },
+    {
+      "id": 3,
+      "name": "Rahul Verma",
+      "role": "Core Member",
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&h=300&fit=crop&crop=face",
+      "skills": ["Flutter", "Firebase", "Dart"],
+      "location": "Indore",
+      "bio": "Mobile app developer specializing in Flutter. Building cross-platform solutions for real-world problems."
+    },
+    {
+      "id": 4,
+      "name": "Sneha Gupta",
+      "role": "Design Lead",
+      "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=300&fit=crop&crop=face",
+      "skills": ["UI/UX", "Figma", "Adobe XD"],
+      "location": "Bhopal",
+      "bio": "Creating beautiful and intuitive user experiences. Passionate about design systems and accessibility."
+    },
+    {
+      "id": 5,
+      "name": "Vikram Singh",
+      "role": "Core Member",
+      "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face",
+      "skills": ["Android", "Kotlin", "Java"],
+      "location": "Delhi",
+      "bio": "Android developer with 3+ years of experience. Google certified Associate Android Developer."
+    },
+    {
+      "id": 6,
+      "name": "Ananya Reddy",
+      "role": "Event Coordinator",
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&h=300&fit=crop&crop=face",
+      "skills": ["Project Management", "Communication", "Marketing"],
+      "location": "Hyderabad",
+      "bio": "Organizing hackathons and tech events. Bridging the gap between tech and community."
+    },
+    {
+      "id": 7,
+      "name": "Karthik Iyer",
+      "role": "Cloud Lead",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300&h=300&fit=crop&crop=face",
+      "skills": ["GCP", "Docker", "Kubernetes"],
+      "location": "Bhopal",
+      "bio": "Cloud architect specializing in Google Cloud Platform. Helping students get cloud certified."
+    },
+    {
+      "id": 8,
+      "name": "Meera Krishnan",
+      "role": "Web Lead",
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300&h=300&fit=crop&crop=face",
+      "skills": ["Next.js", "TypeScript", "GraphQL"],
+      "location": "Chennai",
+      "bio": "Full-stack developer building modern web applications. Open source contributor and tech blogger."
+    },
+    {
+      "id": 9,
+      "name": "Aditya Joshi",
+      "role": "Core Member",
+      "photo": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=300&h=300&fit=crop&crop=face",
+      "skills": ["Cybersecurity", "Ethical Hacking", "Linux"],
+      "location": "Pune",
+      "bio": "Security researcher and CTF player. Passionate about securing digital infrastructure."
+    },
+    {
+      "id": 10,
+      "name": "Divya Sharma",
+      "role": "Content Lead",
+      "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=300&fit=crop&crop=face",
+      "skills": ["Technical Writing", "Documentation", "SEO"],
+      "location": "Bhopal",
+      "bio": "Creating engaging technical content. Making complex topics accessible to everyone."
+    },
+    {
+      "id": 11,
+      "name": "Rohan Malhotra",
+      "role": "Core Member",
+      "photo": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=300&h=300&fit=crop&crop=face",
+      "skills": ["Blockchain", "Web3", "Solidity"],
+      "location": "Mumbai",
+      "bio": "Building decentralized applications. Exploring the future of Web3 technology."
+    },
+    {
+      "id": 12,
+      "name": "Neha Agarwal",
+      "role": "Operations Lead",
+      "photo": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=300&h=300&fit=crop&crop=face",
+      "skills": ["DevOps", "CI/CD", "AWS"],
+      "location": "Bangalore",
+      "bio": "Streamlining development workflows. Automating everything that can be automated."
+    }
+  ]
+}
